@@ -89,7 +89,7 @@ gulp.task('jade', function() {
     var utils = require('./src/js/utils');
 
     
-    var host = '/interactives/' + projectName + '/';
+    var host = '/' + projectName + '/';
 
     if(!PRODUCTION_MODE) {
         host = '/';
