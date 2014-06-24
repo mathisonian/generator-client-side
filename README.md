@@ -1,6 +1,6 @@
 # generator-client-side
 
-> [Yeoman](http://yeoman.io) generator for client side webapps and interactives
+> [Yeoman](http://yeoman.io) generator for client side webapps
 
 Features:
 
